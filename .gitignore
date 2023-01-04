@@ -2,5 +2,7 @@
 .idea
 *.iml
 *.zip
+*.crx
+*.pem
 out
 gen
