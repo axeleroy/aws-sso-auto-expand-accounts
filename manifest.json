@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "AWS SSO Auto-Expand Accounts",
+  "version": "1.0.0",
+  "author": "Axel Leroy",
+  "content_scripts": [{
+    "matches": [
+      "*://*.awsapps.com/*"
+    ],
+    "js": ["auto-expand.js"],
+    "run_at": "document_end",
+    "all_frames": false
+  }]
+}
