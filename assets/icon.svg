@@ -9,6 +9,9 @@
    viewBox="0 0 316 316"
    sodipodi:docname="icon.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/axel/IdeaProjects/perso/aws-sso-envs-expander/assets/icon128.png"
+   inkscape:export-xdpi="38.886074"
+   inkscape:export-ydpi="38.886074"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="215.49079"
-     inkscape:cy="165.81654"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="-24.5"
+     inkscape:cy="268"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -36,39 +39,40 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g2094">
+     id="g2094"
+     style="display:inline">
     <g
-       id="g2098"
-       transform="translate(0.36197381,0.71404281)">
+       id="g2067"
+       transform="matrix(1.1404552,0,0,1.1404552,-39.543755,-35.691625)">
+      <g
+         id="g2098"
+         transform="translate(0.36197381,0.71404281)">
+        <path
+           style="fill:#fcb212"
+           d="M 47.985234,94.110509 157.08737,30.789585 269.039,94.115521 158.01365,157.5 Z"
+           id="path2104"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#fc8c13"
+           d="M 47.984528,220.94759 47.985234,94.110509 158.01365,157.5 158.00012,284.19004 C 119.60793,262.41539 80.755055,239.77746 47.984528,220.94759 Z"
+           id="path2102"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#f36f1a"
+           d="M 158.00682,220.84502 158.01382,157.5 269.039,94.115521 l -0.0237,125.297869 -111.01518,64.77665 0.007,-63.34502 z"
+           id="path2100"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
       <path
-         style="fill:#fefefe"
-         d="M 0,158 V 0 H 158 316 V 158 316 H 158 0 Z M 213.1494,253.22017 268.5,221.44033 268.7573,157.37019 269.01459,93.300037 214.2573,61.900019 159.5,30.5 H 158 156.5 L 101.7427,61.900019 46.985408,93.300037 47.242704,157.34233 47.5,221.38462 l 55,31.69799 55,31.69798 0.1494,0.10971 0.1494,0.1097 z"
-         id="path2108" />
+         d="m 216.46716,174.95039 -0.0357,66.93022 27.59682,0.0147 -38.41721,66.2753 -38.98077,-66.31665 27.59682,0.0147 0.0358,-66.93022"
+         fill="#112244"
+         id="path65"
+         style="fill:#2a2aff;stroke-width:0.317205" />
       <path
-         style="fill:#fcb212"
-         d="M 47.985234,94.110509 157.08737,30.789585 269.039,94.115521 158.01365,157.5 Z"
-         id="path2104"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#fc8c13"
-         d="M 47.984528,220.94759 47.985234,94.110509 158.01365,157.5 158.00012,284.19004 C 119.60793,262.41539 80.755055,239.77746 47.984528,220.94759 Z"
-         id="path2102"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#f36f1a"
-         d="M 158.00682,220.84502 158.01382,157.5 269.039,94.115521 l -0.0237,125.297869 -111.01518,64.77665 0.007,-63.34502 z"
-         id="path2100"
-         sodipodi:nodetypes="ccccccc" />
+         d="m 249.29643,277.46969 -1.00878,-66.92263 -27.59369,0.41597 37.37828,-66.86675 40.01092,65.70026 -27.59368,0.41596 1.00867,66.92263"
+         fill="#112244"
+         id="path65-3"
+         style="fill:#2a2aff;stroke-width:0.317205" />
     </g>
-    <path
-       d="m 216.46716,174.95039 -0.0357,66.93022 27.59682,0.0147 -38.41721,66.2753 -38.98077,-66.31665 27.59682,0.0147 0.0358,-66.93022"
-       fill="#112244"
-       id="path65"
-       style="stroke-width:0.317205;fill:#2a2aff" />
-    <path
-       d="m 249.29643,277.46969 -1.00878,-66.92263 -27.59369,0.41597 37.37828,-66.86675 40.01092,65.70026 -27.59368,0.41596 1.00867,66.92263"
-       fill="#112244"
-       id="path65-3"
-       style="stroke-width:0.317205;fill:#2a2aff" />
   </g>
 </svg>
