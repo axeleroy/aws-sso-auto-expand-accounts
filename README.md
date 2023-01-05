@@ -3,6 +3,8 @@
 Tired of clicking to expand an AWS SSO account to then open the account's console? This add-on solves the problem by
 automatically expanding every accounts on the AWS SSO page.
 
+![The AWS SSO page with the AWS Account and accounts sections expanded](screenshot.png)
+
 ## Installation / Download
 
 ### Firefox
