@@ -1,9 +1,10 @@
+![The add-on icon](https://github.com/axeleroy/aws-sso-auto-expand-accounts/blob/main/assets/icon128.png?raw=true)
 # AWS SSO Auto-Expand Accounts
 
 Tired of clicking to expand an AWS SSO account to then open the account's console? This add-on solves the problem by
 automatically expanding every accounts on the AWS SSO page.
 
-![The AWS SSO page with the AWS Account and accounts sections expanded](screenshot.png)
+![The AWS SSO page with the AWS Account and accounts sections expanded](https://github.com/axeleroy/aws-sso-auto-expand-accounts/blob/main/assets/screenshot.png?raw=true)
 
 ## Installation / Download
 
