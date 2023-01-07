@@ -15,6 +15,7 @@ You can also install it manually from the [releases](https://github.com/axeleroy
 
 ### Chrome
 
-The extension is not yet available on the Chrome Web Store, so it must be installed from `chrome://extensions`.
-Enable Developer Mode, click on  "Load unpacked extension…" and choose the folder the extension's code is in.
-(https://developer.chrome.com/extensions/getstarted#unpacked)
+The preferred way is throught the [Chrome Web Store](https://chrome.google.com/webstore/detail/aws-sso-auto-expand-accou/gaoakldfmgoacibfogaljjagebfgjflc).
+
+You can also install it manually from `chrome://extensions` : clone the repository, enable Developer Mode, click on  "Load unpacked extension…" and choose
+the folder the extension's code is in. (cf. https://developer.chrome.com/extensions/getstarted#unpacked)
