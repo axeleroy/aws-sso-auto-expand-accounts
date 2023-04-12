@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
   "name": "AWS SSO Auto-Expand Accounts",
   "version": "1.0.3",
@@ -16,5 +16,10 @@
     "16": "assets/icon16.png",
     "48": "assets/icon48.png",
     "128": "assets/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{6a54dcc5-c199-4560-aabb-d8025f011d90}"
+    }
   }
 }
