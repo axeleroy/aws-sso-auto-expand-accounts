@@ -6,7 +6,7 @@ new MutationObserver((mutations) => {
     // Flatten NodeList[] to Node[]
     .reduce((previousValue, currentValue) =>
         previousValue.concat(Array.from(currentValue.values())), [])
-    // Filter the added `sso-expander` note
+    // Filter the added `sso-expander` nodes
     .filter((node) => node.nodeType === Node.ELEMENT_NODE);
 
     const accountApplicationNodes = addedNodes
